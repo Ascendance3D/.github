@@ -54,7 +54,7 @@ FreeWRL remains an independent open-source project with its original authors and
 It combines a native VRML97 editor with live [X_ITE](https://create3000.github.io/x_ite/) preview, gzip-transparent file handling, Cybertown item inspection, world-project scanning, and deterministic project packaging. Public builds are available for Linux, Windows, and Apple Silicon macOS.
 
 - **Website & downloads:** [wrlforge.com](https://wrlforge.com)
-- **Source:** [DJAscendance/wrlforge](https://github.com/DJAscendance/wrlforge)
+- **Source:** [Ascendance3D/wrlforge](https://github.com/Ascendance3D/wrlforge)
 
 WRL Forge is an independent community project and is not affiliated with or endorsed by Cybertown or its current or former operators.
 
