@@ -12,7 +12,7 @@
 
 **Preserving yesterday's virtual worlds. Building tomorrow's open ones.**
 
-[Website](https://ascendance.cc) · [FreeWRL](https://github.com/DJAscendance/freewrl) · [Cyber Town Next-Gen](https://github.com/Cyber-Town-Next-Gen) · [Skate.FM](https://github.com/SkateFM)
+[Website](https://ascendance.cc) · [FreeWRL](https://github.com/DJAscendance/freewrl) · [WRL Forge](https://wrlforge.com) · [Cyber Town Next-Gen](https://github.com/Cyber-Town-Next-Gen) · [Skate.FM](https://github.com/SkateFM)
 
 </div>
 
@@ -47,6 +47,17 @@ The active [FreeWRL fork](https://github.com/DJAscendance/freewrl) is modernizin
 
 FreeWRL remains an independent open-source project with its original authors and upstream history. Ascendance Open Worlds contributes modernization and preservation work around that codebase.
 
+### WRL Forge
+
+[WRL Forge](https://wrlforge.com) is a cross-platform desktop tool for editing, previewing, inspecting, and packaging classic VRML97 `.wrl` content.
+
+It combines a native VRML97 editor with live [X_ITE](https://create3000.github.io/x_ite/) preview, gzip-transparent file handling, Cybertown item inspection, world-project scanning, and deterministic project packaging. Public builds are available for Linux, Windows, and Apple Silicon macOS.
+
+- **Website & downloads:** [wrlforge.com](https://wrlforge.com)
+- **Source:** [DJAscendance/wrlforge](https://github.com/DJAscendance/wrlforge)
+
+WRL Forge is an independent community project and is not affiliated with or endorsed by Cybertown or its current or former operators.
+
 ### Cyber Town Next-Gen
 
 [Cyber Town Next-Gen](https://github.com/Cyber-Town-Next-Gen) focuses specifically on restoring, documenting, and extending Cybertown-era software and worlds.
@@ -68,8 +79,9 @@ Ascendance Open Worlds is intentionally broader than one application or one hist
 
 ```text
 Ascendance Open Worlds / Ascendance3D
+├── FreeWRL modernization
+├── WRL Forge — VRML97 editing, preview, inspection, and packaging
 ├── 3D and world-building tools
-├── VRML97 / X3D modernization
 ├── reusable spatial software
 ├── preservation utilities
 └── experimental open-world projects
