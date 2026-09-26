@@ -12,7 +12,7 @@
 
 **Preserving yesterday's virtual worlds. Building tomorrow's open ones.**
 
-[Website](https://ascendance.cc) · [FreeWRL](https://github.com/DJAscendance/freewrl) · [WRL Forge](https://wrlforge.com) · [Cyber Town Next-Gen](https://github.com/Cyber-Town-Next-Gen) · [Skate.FM](https://github.com/SkateFM)
+[Website](https://ascendance.cc) · [FreeWRL](https://github.com/Ascendance3D/freewrl) · [WRL Forge](https://wrlforge.com) · [Cyber Town Next-Gen](https://github.com/Cyber-Town-Next-Gen) · [Skate.FM](https://github.com/SkateFM)
 
 </div>
 
@@ -43,7 +43,7 @@ We believe old virtual worlds are worth preserving, open standards still matter,
 
 ### FreeWRL modernization
 
-The active [FreeWRL fork](https://github.com/DJAscendance/freewrl) is modernizing the long-running open-source VRML97/X3D browser for current systems, including native Apple Silicon macOS work, automated regression testing, standalone packaging, and preservation of legacy 3D content.
+The active [FreeWRL fork](https://github.com/Ascendance3D/freewrl) is modernizing the long-running open-source VRML97/X3D browser for current systems, including native Apple Silicon macOS work, automated regression testing, standalone packaging, and preservation of legacy 3D content.
 
 FreeWRL remains an independent open-source project with its original authors and upstream history. Ascendance Open Worlds contributes modernization and preservation work around that codebase.
 
